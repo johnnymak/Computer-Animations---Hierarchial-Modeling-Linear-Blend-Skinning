@@ -10,4 +10,4 @@ Once the joints are set, a files containing weights for each vertex determines h
 
 Instructions: 
 
-You may use mouse inputs to interact with the model. No keys are assigned.
+Only mouse input is required to interact with the model. No key presses required.
